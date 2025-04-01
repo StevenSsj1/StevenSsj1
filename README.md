@@ -5,7 +5,6 @@
 <body>
     <header class="hero">
         <div class="hero-content">
-            <h1>Lenin Llano</h1>
             <p>Desarrollador Fullstack</p>
         </div>
     </header>
