@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**StevenSsj1/StevenSsj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio de Lenin Llano</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header class="hero">
+        <div class="hero-content">
+            <img src="assets/profile.jpg" alt="Lenin Llano" class="profile-img">
+            <h1>Lenin Llano</h1>
+            <p>Desarrollador Fullstack</p>
+            <a href="cv.pdf" class="btn">Descargar CV</a>
+        </div>
+    </header>
 
-Here are some ideas to get you started:
+    <section class="bio">
+        <div class="container">
+            <img src="assets/profile-small.jpg" alt="Lenin Llano" class="bio-img">
+            <h2>Sobre mí</h2>
+            <p>
+                Desarrollador de software me interesa el ámbito del desarrollo Fullstack, deseo expandir mis habilidades y contribuir al desarrollo de aplicaciones de software con una sólida formación en el desarrollo de soluciones de software y análisis de datos.
+            </p>
+            <div class="contact-info">
+                <a href="mailto:leninllano22@outlook.com"><i class="fas fa-envelope"></i> leninllano22@outlook.com</a>
+                <a href="https://www.linkedin.com/in/lenin-llano-orellana-92274bb6/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+            </div>
+        </div>
+    </section>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</body>
+</html>
