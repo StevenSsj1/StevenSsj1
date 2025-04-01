@@ -1,16 +1,16 @@
-## Hi there 👋
+## Lenin Llano 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Si+Puedes+Imaginarlo+Puedes+Programarlo" alt="Typing SVG" /></a>
 
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portafolio de Lenin Llano</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portafolio de Lenin Llano</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+<style>
           body {
               font-family: 'Arial', sans-serif;
               margin: 0;
@@ -89,10 +89,8 @@
 <body>
     <header class="hero">
         <div class="hero-content">
-            <img src="assets/profile.jpg" alt="Lenin Llano" class="profile-img">
             <h1>Lenin Llano</h1>
             <p>Desarrollador Fullstack</p>
-            <a href="cv.pdf" class="btn">Descargar CV</a>
         </div>
     </header>
 
