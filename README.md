@@ -12,7 +12,6 @@
 
   <section class="bio">
         <div class="container">
-            <img src="assets/profile-small.jpg" alt="Lenin Llano" class="bio-img">
             <h2>Sobre mí</h2>
             <p>
                 Desarrollador de software me interesa el ámbito del desarrollo Fullstack, deseo expandir mis habilidades y contribuir al desarrollo de aplicaciones de software con una sólida formación en el desarrollo de soluciones de software y análisis de datos.
