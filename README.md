@@ -6,7 +6,7 @@
 <body>
     <header class="hero">
         <div class="hero-content">
-            <p>Desarrollador Fullstack</p>
+            <p>Desarrollador FullStack Jr</p>
         </div>
     </header>
 
