@@ -14,8 +14,7 @@
         <div class="container">
             <h2>Sobre mí</h2>
             <p>
-                Desarrollador de software me interesa el ámbito del desarrollo Fullstack, deseo expandir mis habilidades y contribuir al desarrollo de aplicaciones de software con una sólida formación.
-            </p>
+            Desarrollador backend con una base académica sólida y experiencia práctica en la creación de sistemas robustos y eficientes, incluyendo la automatización de procesos y la implementación de soluciones. tengo tendencia fullstack, aunque con conocimientos básicos en frontend, esto me permite tener una visión más integral de las aplicaciones, eficiencia y la mejora continua de infraestructuras DevOps y Backend como un profesional con potencial para optimizar el ciclo de vida del desarrollo de software.            </p>
             <div class="contact-info">
                 <a href="mailto:leninllano22@outlook.com"><i class="fas fa-envelope"></i> leninllano22@outlook.com</a>
                 <a href="https://www.linkedin.com/in/lenin-llano-orellana-92274bb6/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
