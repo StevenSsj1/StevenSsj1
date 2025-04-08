@@ -21,7 +21,8 @@
 </p>
 
 🎓 Ingeniero en Ciencias de la Computación <br>
-🔧  Desarrollador backend con una base académica sólida y experiencia práctica en la creación de sistemas robustos y eficientes, incluyendo la automatización de procesos y la implementación de soluciones.  <br>
+🔧  Desarrollador backend con una base académica sólida y experiencia práctica en la creación de sistemas robustos y eficientes,<br>
+tengo tendencia fullstack, aunque con conocimientos básicos en frontend, esto me permite tener una visión más integral de las aplicaciones.<br>
 🚀 Me encanta construir soluciones escalables, seguras y eficientes que generen impacto. <br>
 
 <br>
