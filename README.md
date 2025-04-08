@@ -21,17 +21,17 @@
 
 ⭐️ Hola, soy **Lenin Steven Llano Orellana** <br>
 🎓 Ingeniero en Ciencias de la Computación <br>
-🔧 Apasionado por el desarrollo Fullstack, infraestructura, DevOps y análisis de datos. <br>
+🔧  Desarrollador backend con una base académica sólida y experiencia práctica en la creación de sistemas robustos y eficientes, incluyendo la automatización de procesos y la implementación de soluciones.  <br>
 🚀 Me encanta construir soluciones escalables, seguras y eficientes que generen impacto. <br>
 
 <br>
 
 ## 💻 Tech Stack:
 
-- 👨‍💻 TypeScript, JavaScript, Python, Java, SQL, C, C#
-- ⚙️ Angular, React, NodeJS, NestJS, FastAPI
+- 👨‍💻 TypeScript, JavaScript, Python, Java, SQL, R
+- ⚙️ Angular, NodeJS, NestJS, FastAPI
 - 🐘 PostgreSQL, MongoDB, MySQL
-- 🐳 Docker, GitLab CI/CD, Git, Bash, Elasticsearch, Stata
+- 🐳 Docker, GitLab CI/CD, Git, Bash, Elasticsearch
 - ☁️ Principios SOLID, Microservicios, API RESTful
 
 <p align="center">
