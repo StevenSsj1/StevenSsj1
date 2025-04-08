@@ -1,8 +1,4 @@
-<p align="center">
 
-  <img src="https://github.com/user-attachments/assets/282a0f93-0624-43a7-9311-994813ed4327" alt="Lenin Steven Llano Orellana" width="300px" height="200px" />
-
-</p>
 
 <p align="center">
 
