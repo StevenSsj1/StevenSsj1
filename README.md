@@ -29,6 +29,7 @@
     <img src="https://skillicons.dev/icons?i=ts,js,py,java,r,angular,nestjs,postgres,mysql,mongodb,docker" />
   </a>
 </p>
+
 ## 🎯 Certificaciones
 
 - 🛡️ ISO 27001 – CertiProf
