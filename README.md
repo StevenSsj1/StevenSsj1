@@ -14,6 +14,7 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/in/lenin-llano-orellana-92274bb6/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=0139ff"/></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:leninllano22@outlook.com"><img width="32px" alt="Email" title="Email" src="https://img.icons8.com/?size=100&id=59835&format=png&color=0139ff"/></a>
 
 </p>
