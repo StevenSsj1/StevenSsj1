@@ -11,7 +11,7 @@
   <a href="mailto:leninllano22@outlook.com"><img width="32px" alt="Email" title="Email" src="https://img.icons8.com/?size=80&id=59835&format=png&color=0139ff"/></a>
 </p>
 🎓 Ingeniero en Ciencias de la Computación <br>
-🔧  Desarrollador backend con una base académica sólida y experiencia práctica en la creación de sistemas robustos y eficientes, tengo tendencia fullstack, aunque con conocimientos básicos en frontend, esto me permite tener una visión más integral de las aplicaciones.<br>
+🔧  Desarrollador backend con una base académica sólida y experiencia práctica en la creación de sistemas robustos y eficientes, tengo tendencia fullstack, aunque con conocimientos básicos en frontend, esto me        permite tener una visión más integral de las aplicaciones.<br>
 🚀 Me encanta construir soluciones escalables, seguras y eficientes que generen impacto. <br>
 
 <br>
