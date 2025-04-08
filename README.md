@@ -32,9 +32,6 @@ tengo tendencia fullstack, aunque con conocimientos básicos en frontend, esto m
     <img src="https://skillicons.dev/icons?i=ts,js,py,java,r,angular,nestjs,postgres,mysql,mongodb,docker" />
   </a>
 </p>
-
-<br>
-
 ## 🎯 Certificaciones
 
 - 🛡️ ISO 27001 – CertiProf
