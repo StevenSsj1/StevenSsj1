@@ -5,7 +5,7 @@
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Si+Puedes+Imaginarlo+Puedes+Programarlo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=475&lines=Si+Puedes+Imaginarlo+Puedes+Programarlo" alt="Typing SVG" />
 </a>
 
 
@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,java,angular,nestjs,postgres,mysql,mongodb,docker" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,java,R,angular,nestjs,postgres,mysql,mongodb,docker" />
   </a>
 </p>
 
