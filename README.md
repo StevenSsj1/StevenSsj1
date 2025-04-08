@@ -12,6 +12,7 @@
 </p>
 
 <p align="center">
+   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <a href="https://www.linkedin.com/in/lenin-llano-orellana-92274bb6/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=0139ff"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
