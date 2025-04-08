@@ -1,12 +1,13 @@
-
+## Lenin Llano 👋
 
 <p align="center">
 
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador%20Fullstack;Apasionado%20por%20la%20tecnología;Innovando%20con%20cada%20línea%20de%20código&font=Fira%20Code&center=true&width=440&height=45&color=0139ff&vCenter=true&pause=1000&size=22" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Si+Puedes+Imaginarlo+Puedes+Programarlo" alt="Typing SVG" />
+</a>
+
 
 </p>
 
@@ -19,7 +20,6 @@
   
 </p>
 
-⭐️ Hola, soy **Lenin Steven Llano Orellana** <br>
 🎓 Ingeniero en Ciencias de la Computación <br>
 🔧  Desarrollador backend con una base académica sólida y experiencia práctica en la creación de sistemas robustos y eficientes, incluyendo la automatización de procesos y la implementación de soluciones.  <br>
 🚀 Me encanta construir soluciones escalables, seguras y eficientes que generen impacto. <br>
