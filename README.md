@@ -5,13 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=470&lines=Si+Puedes+Imaginarlo+Puedes+Programarlo" alt="Typing SVG" />
 </a>
 </p>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/lenin-llano-orellana-92274bb6/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=0139ff"/></a>
+  <a href="https://www.linkedin.com/in/lenin-llano-orellana-92274bb6/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=80&id=8808&format=png&color=0139ff"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:leninllano22@outlook.com"><img width="32px" alt="Email" title="Email" src="https://img.icons8.com/?size=100&id=59835&format=png&color=0139ff"/></a>
+  <a href="mailto:leninllano22@outlook.com"><img width="32px" alt="Email" title="Email" src="https://img.icons8.com/?size=80&id=59835&format=png&color=0139ff"/></a>
 </p>
-
 🎓 Ingeniero en Ciencias de la Computación <br>
 🔧  Desarrollador backend con una base académica sólida y experiencia práctica en la creación de sistemas robustos y eficientes,<br>
 tengo tendencia fullstack, aunque con conocimientos básicos en frontend, esto me permite tener una visión más integral de las aplicaciones.<br>
