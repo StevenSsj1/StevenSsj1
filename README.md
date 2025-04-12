@@ -30,6 +30,9 @@
   </a>
 </p>
 
+### Lenguajes más usados
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenSsj1&layout=compact&theme=radical)
+
 ## 🎯 Certificaciones
 
 - 🛡️ ISO 27001 – CertiProf
