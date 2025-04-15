@@ -12,6 +12,7 @@
 </p>
 🎓 Ingeniero en Ciencias de la Computación <br>
 🔧  Desarrollador backend con una base académica sólida y experiencia práctica en la creación de sistemas robustos y eficientes, tengo tendencia fullstack.
+<br>
 💡 Apasionado por la innovación tecnológica y con interés en el aprendizaje automático y la inteligencia artificial, estoy en constante aprendizaje de algoritmos, modelos predictivos y tecnologías relacionadas con IA.<br>
 🚀 Me encanta construir soluciones escalables, seguras y eficientes que generen impacto. <br>
 
