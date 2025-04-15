@@ -21,7 +21,7 @@
 - 👨‍💻 TypeScript, JavaScript, Python, Java, SQL, R
 - ⚙️ Angular, NodeJS, NestJS, FastAPI
 - 🐘 PostgreSQL, MongoDB, MySQL
-- 🐳 Docker, GitLab CI/CD, Git, Bash, Elasticsearch
+- 🐳 Docker, GitLab CI/CD, Git, Bash, Elasticsearch, Pyspark.
 - ☁️ Principios SOLID, Microservicios, API RESTful
 
 <p align="center">
