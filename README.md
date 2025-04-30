@@ -38,9 +38,6 @@
 - 📐 Prototipos y el Contexto – Código Facilito
 - 📚 Bootcamp de JavaScript – Código Facilito
 
-### Lenguajes más usados
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenSsj1&layout=compact&theme=radical)
-
 ---
 
 <p align="center">
