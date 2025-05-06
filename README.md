@@ -20,15 +20,15 @@
 
 ## 💻 Tech Stack:
 
-- 👨‍💻 TypeScript, JavaScript, Python, Java, SQL, R
-- ⚙️ Angular, NodeJS, NestJS, FastAPI
+- 👨‍💻 TypeScript, Python, Java, C++.
+- ⚙️ Angular, NodeJS, NestJS, FastAPI, React.
 - 🐘 PostgreSQL, MongoDB, MySQL
 - 🐳 Docker, GitLab CI/CD, Git, Bash, Elasticsearch, Pyspark.
 - ☁️ Principios SOLID, Microservicios, API RESTful
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,java,r,angular,nestjs,postgres,mysql,mongodb,docker" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,java,r,angular,nestjs,postgres,mysql,mongodb,docker,c++" />
   </a>
 </p>
 
